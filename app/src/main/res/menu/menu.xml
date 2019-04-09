@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/ic_person_white_24dp"
+        android:title="@string/user"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_more_vert_24px"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/Login"
+                android:icon="@drawable/ic_lock_black_24dp"
+                android:title="@string/sign_in"
+                app:showAsAction="collapseActionView|withText" />
+            <item
+                android:id="@+id/sign_out"
+                android:icon="@drawable/ic_lock_black_24dp"
+                android:title="@string/sign_out"
+                app:showAsAction="never" />
+            <!--<item
+                android:id="@+id/recent_search"
+                android:icon="@drawable/ic_recent_black_24dp"
+                android:title="@string/recent_searches"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/recent_viewed"
+                android:icon="@drawable/ic_recent_viewed_black_24dp"
+                android:title="@string/recent_viewed"
+                app:showAsAction="never" />-->
+            <item
+                android:id="@+id/my_orders"
+                android:icon="@drawable/ic_my_orders_black_24dp"
+                android:title="@string/my_orders"
+                app:showAsAction="never" />
+        </menu>
+
+    </item>
+
+</menu>

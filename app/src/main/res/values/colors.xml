@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#333333</color>
+    <color name="colorAccent">#e0622c</color>
+    <color name="toolbarTextColor">#ffffff</color>
+
+    <color name="back_ground">#EEEEEE</color>
+    <color name="banner_indicator">#45202020</color>
+
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#D10001</color>
+    <color name="white">#FFffff</color>
+    <color name="line">#e0622c </color>
+    <color name="dividerColor">#f0f0f0</color>
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+    <color name="department_text_color">#000000</color>
+    <color name="product_title_color">#e0622c</color>
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+
+    <color name="alpha_color">#9000000F</color>
+    <color name="banner_text_color">#e0622c</color>
+    <color name="text_color">#ffffff</color>
+    <color name="button_color">#131b49</color>
+    <color name="toolbarcolor">#2A363F</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="light_green_500">#8BC34A</color>
+
+    <color name="indigo_500">#3F51B5</color>
+    <color name="pink_700">#C2185B</color>
+    <color name="grey_500">#9E9E9E</color>
+
+    <color name="overlay_dark_30">#4D000000</color>
+    <color name="yellow_600">#FDD835</color>
+    <color name="light_green_700">#689F38</color>
+
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_90">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+
+    <color name="back_dark">#1D262C</color>
+    <color name="back">#2A363F</color>
+
+</resources>
